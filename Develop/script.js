@@ -5,6 +5,15 @@ var lowerCase = ["a", "b", "c", "d", "e", "f", "g", "h", "i", "j", "k", "l", "m"
 var numbers = ["1", "2", "3", "4", "5", "6", "7", "8", "9"];
 var specialCharacters = ['"', " ", "!", "#", "$", "%", "&", "'", "(", ")", "*", "+", ",", "-", ".", "/", ":", ";", "<", "=", ">", "?", "@", "[", "]", "^", "_", "`", "{", "}", "|", "~"];
 
+//Variables for user input
+var addupperCase;
+var addlowerCase;
+var addnumbers;
+var addspecialCharacters;
+var passwordLength;
+
+// Variable for password being generated
+var generatePassword;
 
 // Get references to the #generate element
 var generateBtn = document.querySelector("#generate");
