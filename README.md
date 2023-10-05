@@ -1,1 +1,1 @@
-# Password Generator Starter Code
+This repository contains modified starter code for a random Password Generator.  Through the password genrator, you'll be able to get a randomized password to include either special, numerical, and upper or lowercase alphabetical characters, between 8 and 128 characters.
